@@ -1,0 +1,2 @@
+# Versión fijada: la API de Flet cambia entre versiones mayores.
+flet==0.28.3
